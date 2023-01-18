@@ -1,4 +1,4 @@
-# Estudos Reactj
+# Estudos ReactJS
 
 Rotas
 
